@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Match
+comment0.text=\r\n\ The\ class\ Match\ takes\ two\ Teams\ and\ simulates\ a\ match\ between\ them,\ updates\ their\ goal\r\n\ record\ and\ their\ points.\r\n\ \r\n\ @author\ Sameer\ Mukhi,\ Abhishek\ Gujjar,\ Sahil\ Mahey\r\n\ @version\ 11/21/2021\r\n
+comment1.params=team1\ team2
+comment1.target=Match(Team,\ Team)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Match\r\n
+comment2.params=
+comment2.target=void\ updateGoals()
+comment2.text=\r\n\ Updates\ the\ goals\ scored,\ goals\ against\ and\ goal\ difference\ of\ the\ teams\ after\r\n\ each\ match\r\n
+comment3.params=
+comment3.target=void\ updatePoints()
+comment3.text=\r\n\ Updates\ the\ points\ of\ the\ teams\ after\ each\ match\r\n
+numComments=4

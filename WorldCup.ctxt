@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WorldCup
+comment0.text=\r\n\ The\ class\ WorldCup\ holds\ the\ array\ of\ groups\ and\ simulates\ the\ the\ world\ cup\ event.\r\n\r\n\ @author\ Sameer\ Mukhi,\ Abhishek\ Gujjar,\ Sahil\ Mahey\r\n\ @version\ 11/21/2021\r\n
+comment1.params=
+comment1.target=WorldCup()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WorldCup\r\n
+comment2.params=
+comment2.target=void\ worldCupSetup()
+comment2.text=\r\n\ The\ method\ worldCupSetup\ creates\ groups,\ creates\ teams\ to\ add\ to\ the\ groups\ and\ simulates\ matches\ between\ the\ teams\ in\ each\ group.\r\n
+comment3.params=groupName
+comment3.target=void\ calculateRanking(java.lang.String)
+comment3.text=\r\n\ The\ method\ takes\ the\ name\ of\ the\ group\ and\ calculates/displays\ the\ ranking\ for\ that\ group.\r\n
+numComments=4
