@@ -7,7 +7,7 @@ import java.text.NumberFormat;
 /**
  * The class WorldCup holds the array of groups and simulates the the world cup event.
  *
- * @author Sameer Mukhi, Abhishek Gujjar, Sahil Mahey
+ * @author Abhishek Gujjar
  * @version 11/21/2021
  */
 public class WorldCup
