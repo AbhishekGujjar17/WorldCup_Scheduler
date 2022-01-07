@@ -4,7 +4,7 @@ import java.util.*;
  *  The class Group takes the group name to initializ a group object that also stores an array
  *  of matches and teams in the group.
  *
- * @author Sameer Mukhi, Abhishek Gujjar, Sahil Mahey
+ * @author  Abhishek Gujjar
  * @version 11/21/2021
  */
 public class Group
