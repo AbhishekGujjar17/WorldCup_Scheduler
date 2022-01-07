@@ -3,7 +3,7 @@ import java.util.ArrayList;
  * The class Team takes the team name, the coach name and the array of players to initialize a
  * team object. It also stores the goal record and the points of a team.
  *
- * @author Sameer Mukhi, Abhishek Gujjar, Sahil Mahey
+ * @author Abhishek Gujjar
  * @version 11/21/2021
  */
 public class Team
