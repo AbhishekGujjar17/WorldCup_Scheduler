@@ -3,7 +3,7 @@
  * The class Match takes two Teams and simulates a match between them, updates their goal
  * record and their points.
  * 
- * @author Sameer Mukhi, Abhishek Gujjar, Sahil Mahey
+ * @author Abhishek Gujjar
  * @version 11/21/2021
  */
 public class Match
